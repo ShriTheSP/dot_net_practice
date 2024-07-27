@@ -1,0 +1,7 @@
+C:\Users\shrid\source\repos\ESS_input\bin\Debug\ESS_input.exe.config
+C:\Users\shrid\source\repos\ESS_input\bin\Debug\ESS_input.exe
+C:\Users\shrid\source\repos\ESS_input\bin\Debug\ESS_input.pdb
+C:\Users\shrid\source\repos\ESS_input\obj\Debug\ESS_input.csproj.AssemblyReference.cache
+C:\Users\shrid\source\repos\ESS_input\obj\Debug\ESS_input.csproj.CoreCompileInputs.cache
+C:\Users\shrid\source\repos\ESS_input\obj\Debug\ESS_input.exe
+C:\Users\shrid\source\repos\ESS_input\obj\Debug\ESS_input.pdb
