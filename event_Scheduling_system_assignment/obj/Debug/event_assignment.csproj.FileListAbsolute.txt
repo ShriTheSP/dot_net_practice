@@ -1,0 +1,7 @@
+C:\Users\shrid\OneDrive\Desktop\.Net_Practice\event_assignment-mam\event_assignment\bin\Debug\event_assignment.exe.config
+C:\Users\shrid\OneDrive\Desktop\.Net_Practice\event_assignment-mam\event_assignment\bin\Debug\event_assignment.exe
+C:\Users\shrid\OneDrive\Desktop\.Net_Practice\event_assignment-mam\event_assignment\bin\Debug\event_assignment.pdb
+C:\Users\shrid\OneDrive\Desktop\.Net_Practice\event_assignment-mam\event_assignment\obj\Debug\event_assignment.csproj.AssemblyReference.cache
+C:\Users\shrid\OneDrive\Desktop\.Net_Practice\event_assignment-mam\event_assignment\obj\Debug\event_assignment.csproj.CoreCompileInputs.cache
+C:\Users\shrid\OneDrive\Desktop\.Net_Practice\event_assignment-mam\event_assignment\obj\Debug\event_assignment.exe
+C:\Users\shrid\OneDrive\Desktop\.Net_Practice\event_assignment-mam\event_assignment\obj\Debug\event_assignment.pdb
